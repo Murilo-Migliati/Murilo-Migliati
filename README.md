@@ -1,4 +1,7 @@
 ## Olá!👋👋 Eu sou Murilo Migliati, seja bem vindo ao meu GitHub, meu laboratório de Tecnologia 
+- 🔭 Atualmente Sou Balconista
+- 🌱 Estudo C#, Java(Spring Framework)
+- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/Murilo-Migliati">
@@ -8,6 +11,3 @@
 
 
 
-- 🔭 Atualmente Sou Balconista
-- 🌱 Estudo C#, Java(Spring Framework)
-- 😄 Pronouns: Ele/Dele
