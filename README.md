@@ -1,6 +1,6 @@
 ## Olá!👋👋 Eu sou Murilo Migliati, seja bem vindo ao meu GitHub, meu laboratório de Tecnologia 
 - 🔭 Atualmente Sou Balconista
-- 📚 estudando: Analise e Desenvolvimento de Sistemas 4/4
+- 📚 Estudando: Analise e Desenvolvimento de Sistemas 4/4
 - 📘 Estudo C#, Java(Spring Framework), MySql, C
 - 📫 Contato: murilo.migliati123@gmail.com
 - 😄 Pronouns: Ele/Dele
