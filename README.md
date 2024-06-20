@@ -3,6 +3,7 @@
 - 📚 Estudando: Analise e Desenvolvimento de Sistemas 4/4
 - 📘 Estudo C#, Java(Spring Framework), MySql, C
 - 📫 Contato: murilo.migliati123@gmail.com
+- 🔗 Conecte-se: https://www.linkedin.com/in/murilo-migliati-017a23281/
 - 😄 Pronouns: Ele/Dele
 
 <div>
