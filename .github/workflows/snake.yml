@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checar código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3 # Verifique se há uma versão mais recente
 
       - name: Gerar Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3 # Verifique a compatibilidade com Node.js 20
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -22,7 +22,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Enviar resultado para o branch `output`
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0 # Verifique se há uma versão mais recente
         with:
           target_branch: output
           build_dir: dist
