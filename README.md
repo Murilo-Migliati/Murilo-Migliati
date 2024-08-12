@@ -1,11 +1,11 @@
 ## Olá!👋👋 Eu sou Murilo Migliati, seja bem vindo ao meu GitHub, meu laboratório de Tecnologia 
-🔭 Atualmente Sou Balconista<br>- 
-🎯 Foco: Android Specialist Developer<br>- 
-📚 Estudando: Analise e Desenvolvimento de Sistemas 4/4<br>- 
-📘 Estudo Kotlin, IoT, Arduino, Raspberry PI 4 <br>- 
-📫 Contato: murilo.migliati123@gmail.com <br>- 
-🔗 Conecte-se: https://www.linkedin.com/in/murilo-migliati-017a23281/<br>- 
-😄 Pronouns: Ele/Dele
+ - 🔭 Atualmente Sou Balconista
+ - 🎯 Foco: Android Specialist Developer
+ - 📚 Estudando: Analise e Desenvolvimento de Sistemas 4/4
+ - 📘 Estudo Kotlin, IoT, Arduino, Raspberry PI 4  
+ - 📫 Contato: murilo.migliati123@gmail.com 
+ - 🔗 Conecte-se: https://www.linkedin.com/in/murilo-migliati-017a23281/
+ - 😄 Pronouns: Ele/Dele
 
 ###
 
