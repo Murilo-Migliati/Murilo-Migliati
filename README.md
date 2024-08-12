@@ -5,7 +5,6 @@
  - 📘 Estudo Kotlin, IoT, Arduino, Raspberry PI 4  
  - 📫 Contato: murilo.migliati123@gmail.com 
  - 🔗 Conecte-se: https://www.linkedin.com/in/murilo-migliati-017a23281/
- - 😄 Pronouns: Ele/Dele
 
 ###
 
@@ -43,7 +42,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murilo-Migliati/Murilo-Migliati/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Murilo-Migliati/Murilo-Migliati/output/github-snake.svg" />
 </picture>
-
 
 ###
 
