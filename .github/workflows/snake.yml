@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake GIF
 
 on:
-  schedule: # Executa a cada 6 horas
-    - cron: "0 */6 * * *"
+  schedule: 
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -10,22 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Baixa o conteúdo do seu repositório
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Gera a cobra
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: dist/github-contribution-grid-snake.svg
 
-      # Adiciona e faz o push do SVG gerado
-      - name: Push Snake to the output branch
+      - name: Convert SVG to GIF
+        run: |
+          sudo apt-get install -y imagemagick
+          convert -delay 10 -loop 0 dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif
+
+      - name: Push GIF to output branch
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Generated Snake"
+          git add dist/github-contribution-grid-snake.gif
+          git commit -m "Generated Snake GIF"
           git push origin HEAD:output --force
