@@ -1,8 +1,8 @@
 ## Olá!👋👋 Eu sou Murilo Migliati, seja bem vindo ao meu GitHub, meu laboratório de Tecnologia 
- - 🔭 Atualmente Sou Balconista
+ - 🔭 Atualmente sou estagiario P&D Embrapa Instrumentação
  - 🎯 Foco: Android Specialist Developer
  - 📚 Estudando: Analise e Desenvolvimento de Sistemas 4/4
- - 📘 Estudo Kotlin, Android , IoT, Arduino, Raspberry PI 4  
+ - 📘 Estudo Kotlin, Android, Jetpack Compose , IoT, Arduino, Raspberry PI 4  
  - 📫 Contato: murilo.migliati123@gmail.com 
  - 🔗 Conecte-se: https://www.linkedin.com/in/murilo-migliati-017a23281/
 
